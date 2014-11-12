@@ -1,0 +1,30 @@
+{
+  "name": "postcss-colorize",
+  "version": "0.0.1",
+  "description": "Colorize CSS",
+  "keywords": [
+    "postcss",
+    "colors"
+  ],
+  "author": {
+    "name": "Anton Dedkov",
+    "email": "anton@dedkov.net"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "scripts": {
+    "test": "gulp jshint"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0"
+  },
+  "readmeFilename": "README.md"
+}
